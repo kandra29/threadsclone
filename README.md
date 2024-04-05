@@ -6,13 +6,13 @@ Welcome to Threads, a social media application clone that allows users to share 
 
 Checkout Live Preview by clicking the image below:
 
-[![LivePreview](./client/src/assets/preview.jpg)](https://threads-clone-two-pink.vercel.app/)
+[![LivePreview](./client/src/assets/kandra.png)](https://threads-clone-two-pink.vercel.app/)
 
 
 
-## Demo Video
 
-Check out the demo video of Threads in action: [Demo Video](#)
+
+
 
 ## 💻 Tech Stack
 
@@ -25,8 +25,7 @@ Check out the demo video of Threads in action: [Demo Video](#)
   - React Hot Toast (for displaying notifications)
   - React Loader Spinner (for loading components)
   - React Icons
-  - React Helmet (for dynamic title)
-  - Javascript Time Ago
+  
 
 
 - **Backend:**
@@ -67,9 +66,6 @@ Check out the demo video of Threads in action: [Demo Video](#)
   - View post likes and comments
   - Share or Repost other user's post
 
-- **Themes:**
-  - Dark mode
-  - Light mode
 
 - **Responsive Design:**
   - Mobile-friendly layout
@@ -139,29 +135,7 @@ The project is organized with a clear structure, separating the backend and fron
   - `package.json`: Frontend dependencies.
 
 
-## Getting Started
 
-Follow these steps to set up the project on your local machine:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/shoaibhasann/threads-clone.git
-   ```
 
-2. **Set up the backend**:
-   - Navigate to the `server` folder.
-   - Install dependencies: `npm install`
-   - Set up environment variables: Create a `.env` file based on `.env.example.js`.
-   - Start the backend server: `npm start`
-
-3. **Set up the frontend**:
-   - Navigate to the `client` folder: `cd client`
-   - Install dependencies: `npm install`
-   - Set up environment variables: Create a `.env` file based on `.env.example.js`.
-   - Start the client development server: `npm run dev`
-
-4. **Access the application**:
-   Open your browser and visit: [http://localhost:5173](http://localhost:5173)
-
-Made with ❤️ by Shoaib Hasan
 
